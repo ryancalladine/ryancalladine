@@ -1,6 +1,6 @@
 ### Welcome!
 
-Myy name is Ryan, and this is intended to display my coding journey towards becoming a data scientist as well as other interesting proejcts! 
+Myy name is Ryan, and this is intended to display my coding journey towards becoming a data scientist as well as other interesting projects! 
 
 **About Me**
 
